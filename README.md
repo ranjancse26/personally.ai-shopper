@@ -20,6 +20,10 @@ A digital personal shopper solution that connects consumers with local businesse
 
 Please make sure to have the [Google Cloud Account](https://console.cloud.google.com) setup with the Vertex AI, Cloud Natural Language API enabled for running the POC.
 
+# Architecture
+
+Please visit [Architecture](https://github.com/ranjancse26/personally.ai-shopper/wiki/Architecture)
+
 # Behind the scene
 
 Ranjan Dailata (CEO/CTO) Computer Engineer, is an AI Architect and ML Engineer. Currently works on a confidential research lab into CORE of designing and developing cutting-edge products/solutions using AI/ML and Generative AI technologies.
